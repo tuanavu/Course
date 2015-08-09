@@ -33,3 +33,8 @@ algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction
   * [Lec5-fib: Fibonacci (Recursion with multiple base case)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-fib.py)
   * [Lec5-isPal: Palindrome (Recursion on non‐numerics](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-isPal.py)
   * [Lec5-fibMetered: Fibonacci (Global variables)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-fibMetered.py)
+ 
+* Lecture 6:
+  * [Lec6-divisors: Find divisors
+algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_6/lectureCode_Lec6-divisors.py)
+ 
