@@ -17,3 +17,19 @@ solu/ons](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%2
   * [Lec3.6.2: Bisection Search](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_2/lecture_3/lectureCode_lec3.6.2.py)
   * [Lec3.7.3: Newton-Raphson for square root
 ](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_2/lecture_3/lectureCode_lec3.7.3.py)
+
+* Lecture 4:
+  * [Lec4-iterativePower: functional abstraction](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_2/lecture_4/lectureCode_Lec4-iterativePower.py)
+  * [Lec4-twoPower: Environments Separate Variable Bindings](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_2/lecture_4/lectureCode_Lec4-twoPower.py)
+  * [Lec4-roots: Understanding Root Finding](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_2/lecture_4/lectureCode_Lec4-roots.py)
+  * [circle: Modules](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_2/lecture_4/lectureCode_circle.py)
+ 
+* Lecture 5:
+  * [Lec5-iterMul: Iterative
+algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-iterMul.py)
+  * [Lec5-recMul: Recursion](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-recMul.py)
+  * [Lec5-fact: Factorial (n!)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-fact.py)
+  * [Lec5-towers: Tower of Hanoi](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-towers.py)
+  * [Lec5-fib: Fibonacci (Recursion with multiple base case)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-fib.py)
+  * [Lec5-isPal: Palindrome (Recursion on non‐numerics](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-isPal.py)
+  * [Lec5-fibMetered: Fibonacci (Global variables)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_5/lectureCode_Lec5-fibMetered.py)
