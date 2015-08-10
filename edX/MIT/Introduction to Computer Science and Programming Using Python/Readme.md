@@ -36,4 +36,7 @@ algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction
  
 * Lecture 6:
   * [Lec6-divisors: Tuples (Find common divisors)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_6/lectureCode_Lec6-divisors.py)
+  * [Lec6-Universities: Mutability of lists](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_6/lectureCode_Lec6-Universities.py)
+  * [Lec6-removeDups: Remove Duplicates)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_6/lectureCode_Lec6-removeDups.py)
+  * [Lec6-applyToEach: Mutate list with function)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_6/lectureCode_Lec6-applyToEach.py)
  
