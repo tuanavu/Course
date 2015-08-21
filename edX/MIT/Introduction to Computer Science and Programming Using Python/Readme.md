@@ -41,13 +41,13 @@ algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction
   * [Lec6-applyToEach: Mutate list with function (higher order procedures)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_3/lecture_6/lectureCode_Lec6-applyToEach.py)
  
 * Lecture 7:
-  * [Lec7Tests: Test)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_7/lectureCode_Lec7Tests.py)
+  * [Lec7Tests: Test](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_7/lectureCode_Lec7Tests.py)
 
 * Lecture 8:
-  * [Lec8-exceptionsCode: Handling exceptions)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-exceptionsCode.py)
-  * [Lec8-subjectCode.py: Subject Code)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-subjectCode.py)
+  * [Lec8-exceptionsCode: Handling exceptions](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-exceptionsCode.py)
+  * [Lec8-subjectCode.py: Subject Code](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-subjectCode.py)
 
 * Lecture 10:
-  * [Lec10-binarySearch: Binary Search)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10/Lec10-binarySearch.py)
-  * [Lec10-selectionSort: Selection Sort)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10/Lec10-selectionSort.py)
-  * [Lec10-mergeSort: Merge Sort)](https://github.com/tuanvu216/Course/tree/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10)
+  * [Lec10-binarySearch: Binary Search](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10/Lec10-binarySearch.py)
+  * [Lec10-selectionSort: Selection Sort](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10/Lec10-selectionSort.py)
+  * [Lec10-mergeSort: Merge Sort](https://github.com/tuanvu216/Course/tree/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10)
