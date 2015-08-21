@@ -8,3 +8,5 @@ def Towers(n, fr, to, spare):
         Towers(n-1, fr, spare, to)
         Towers(1, fr, to, spare)
         Towers(n-1, spare, to, fr)
+
+Towers(5, 'f', 't', 's')
