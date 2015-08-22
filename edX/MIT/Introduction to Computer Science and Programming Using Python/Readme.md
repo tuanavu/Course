@@ -51,3 +51,7 @@ algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction
   * [Lec10-binarySearch: Binary Search](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10/Lec10-binarySearch.py)
   * [Lec10-selectionSort: Selection Sort](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10/Lec10-selectionSort.py)
   * [Lec10-mergeSort: Merge Sort](https://github.com/tuanvu216/Course/tree/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10)
+
+* Lecture 11:
+  * [lecture11-coordinate: Class Coordinate](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_11/lecture11-coordinate.py)
+  * [lecture11-5-intset: Set of integers](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_11/lecture11-5-intset.py)
