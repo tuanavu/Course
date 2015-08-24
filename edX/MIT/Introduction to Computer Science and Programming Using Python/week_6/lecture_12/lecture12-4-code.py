@@ -32,17 +32,17 @@ class Person(object):
         """return self's name"""
         return self.name
 
-# me = Person("William Eric Grimson")
-# print me
-# me.getLastName()
-# me.setBirthday(1,2,1927)
-# me.getAge()
-# her = Person("Cher")
-# her.getLastName()
-# plist = [me, her]
-# for p in plist: print p
-# plist.sort()
-# for p in plist: print p
+me = Person("William Eric Grimson")
+print me 
+me.getLastName()
+me.setBirthday(1,2,1927)
+me.getAge()
+her = Person("Cher")
+her.getLastName()
+plist = [me, her]
+for p in plist: print p
+plist.sort()
+for p in plist: print p
 
 class MITPerson(Person):
     nextIdNum = 0 # next ID number to assign
@@ -60,23 +60,26 @@ class MITPerson(Person):
     def __lt__(self, other):
         return self.idNum < other.idNum
 
-# p1 = MITPerson('Eric')
-# p2 = MITPerson('John')
-# p3 = MITPerson('John')
-# p4 = Person('John')
+p1 = MITPerson('Eric')
+p2 = MITPerson('John')
+p3 = MITPerson('John')
+p4 = Person('John')
 
-# print p1
+print p1
 
-# p1.getIdNum()
-# p2.getIdNum()
-# p1 < p2
-# p3 < p2
-# p4 < p1
+p1.getIdNum()
+p2.getIdNum()
+p1 < p2
+p3 < p2
+p4 < p1
 
-# p1 < p4
+p1 < p4
 
 
-class UG(MITPerson):
+class Student(MITPerson):
+    pass
+
+class UG(Student):
     def __init__(self, name, classYear):
         MITPerson.__init__(self, name)
         self.year = classYear
@@ -84,18 +87,20 @@ class UG(MITPerson):
     def getClass(self):
         return self.year
 
-class Grad(MITPerson):
+class Grad(Student):
     pass
 
+#def isStudent(obj):
+#    return isinstance(obj,UG) or isinstance(obj,Grad)
 def isStudent(obj):
-    return isinstance(obj,UG) or isinstance(obj,Grad)
+    return isinstance(obj, Student)
 
-#s1 = UG('Fred', 2016)
-#s2 = Grad('Angela')
-#isStudent(s1)
-#isStudent(s2)
+s1 = UG('Fred', 2016)
+s2 = Grad('Angela')
+isStudent(s1)
+isStudent(s2)
 
-class TransferStudent(MITPerson):
+class TransferStudent(Student):
     pass
 
 # go back and define
@@ -181,4 +186,5 @@ six00.addGrade(g2, 25)
 
 six00.addStudent(ug3)
 
-#print gradeReport(six00)
+print gradeReport(six00)
+
