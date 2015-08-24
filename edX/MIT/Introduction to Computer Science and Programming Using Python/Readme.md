@@ -58,6 +58,6 @@ algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction
 
 * Lecture 12:
   * [lecture12-1-code: Class People](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-1-code.py)
-  * [lecture12-2-code: Inheritance](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-2-code.py)
-  * [lecture12-1-code: Set of integers](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_11/lecture11-5-intset.py)
-  * [lecture12-1-code: Set of integers](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_11/lecture11-5-intset.py)
+  * [lecture12-2-code: Class MIT (Inheritance)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-2-code.py)
+  * [lecture12-3-code: Class MIT (Inheritance)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-3-code.py)
+  * [lecture12-4-code: class Grade](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-4-code.py)
