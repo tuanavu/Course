@@ -61,7 +61,7 @@ algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.
   * [lecture12-2-code: Class MIT (Inheritance)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-6/lecture-12/lecture12-2-code.py)
   * [lecture12-3-code: Class MIT (Inheritance)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-6/lecture-12/lecture12-3-code.py)
   * [lecture12-4-code: class Grade](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-6/lecture-12/lecture12-4-code.py)
-  * * [lecture12-5-code: generator](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-6/lecture-12/lecture12-5-code.py)
+  * [lecture12-5-code: generator](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-6/lecture-12/lecture12-5-code.py)
 
 * Lecture 13:
   * [DFSBinary: Depth First Search](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-7/lecture-13/DFSBinary.py)
