@@ -44,5 +44,30 @@ algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction
   * [Lec7Tests: Test)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_7/lectureCode_Lec7Tests.py)
 
 * Lecture 8:
+<<<<<<< HEAD:edX/MIT/MITx 6.00.1x/Readme.md
   * [Lec8-exceptionsCode: Handling exceptions)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-exceptionsCode.py)
   * [Lec8-subjectCode.py: Handling exceptions)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-subjectCode.py)
+=======
+  * [Lec8-exceptionsCode: Handling exceptions](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-exceptionsCode.py)
+  * [Lec8-subjectCode.py: Subject Code](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-subjectCode.py)
+
+* Lecture 10:
+  * [Lec10-binarySearch: Binary Search](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10/Lec10-binarySearch.py)
+  * [Lec10-selectionSort: Selection Sort](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10/Lec10-selectionSort.py)
+  * [Lec10-mergeSort: Merge Sort](https://github.com/tuanvu216/Course/tree/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_5/lecture_10)
+
+* Lecture 11:
+  * [lecture11-coordinate: Class Coordinate](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_11/lecture11-coordinate.py)
+  * [lecture11-5-intset: Set of integers](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_11/lecture11-5-intset.py)
+
+* Lecture 12:
+  * [lecture12-1-code: Class People](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-1-code.py)
+  * [lecture12-2-code: Class MIT (Inheritance)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-2-code.py)
+  * [lecture12-3-code: Class MIT (Inheritance)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-3-code.py)
+  * [lecture12-4-code: class Grade](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_6/lecture_12/lecture12-4-code.py)
+
+* Lecture 13:
+  * [DFSBinary: Depth First Search](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_7/lecture_13/DFSBinary.py)
+  * [treeSearch.py: Tree Search](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_7/lecture_13/treeSearch.py)
+  * [decisionTree: Build Decision Tree](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_7/lecture_13/decisionTree.py)
+>>>>>>> origin/master:edX/MIT/Introduction to Computer Science and Programming Using Python/Readme.md
