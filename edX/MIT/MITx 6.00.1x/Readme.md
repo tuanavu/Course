@@ -44,12 +44,8 @@ algorithms](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.
   * [Lec7Tests: Test)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-4/lecture-7/lectureCode_Lec7Tests.py)
 
 * Lecture 8:
-<<<<<<< HEAD:edX/MIT/MITx 6.00.1x/Readme.md
   * [Lec8-exceptionsCode: Handling exceptions)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-4/lecture-8/lectureCode_Lec8-exceptionsCode.py)
   * [Lec8-subjectCode.py: Handling exceptions)](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-4/lecture-8/lectureCode_Lec8-subjectCode.py)
-=======
-  * [Lec8-exceptionsCode: Handling exceptions](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-exceptionsCode.py)
-  * [Lec8-subjectCode.py: Subject Code](https://github.com/tuanvu216/Course/blob/master/edX/MIT/Introduction%20to%20Computer%20Science%20and%20Programming%20Using%20Python/week_4/lecture_8/lectureCode_Lec8-subjectCode.py)
 
 * Lecture 10:
   * [Lec10-binarySearch: Binary Search](https://github.com/tuanvu216/Course/blob/master/edX/MIT/MITx%206.00.1x/week-5/lecture-10/Lec10-binarySearch.py)
