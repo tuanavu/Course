@@ -1,3 +1,0 @@
-- url: /tasks/send_confirmation_email
-  script: main.app
-  login: admin
